@@ -25,8 +25,7 @@
   },
   "homepage": "https://github.com/posthtml/posthtml-parser#readme",
   "dependencies": {
-    "htmlparser2": "^3.9.2",
-    "object-assign": "^4.1.1"
+    "htmlparser2": "^3.9.2"
   },
   "devDependencies": {
     "chai": "^3.3.0",
